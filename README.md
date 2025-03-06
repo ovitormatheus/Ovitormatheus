@@ -1,4 +1,4 @@
-# 🖥️ Vitor Matheus
+# 👨🏾‍💻 Vitor Matheus
 
 Me chamo Vitor Matheus, tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista. Estou iniciando a jornada no mundo da programação e explorando diferentes áreas e tecnologias. Sempre em busca de aprendizado e desafios, estou determinado a aprimorar minhas habilidades e construir projetos que me ajudem a evoluir como desenvolvedor.
 
