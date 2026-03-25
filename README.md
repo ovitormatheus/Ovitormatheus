@@ -36,10 +36,10 @@
 <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 ### 🌐 Conecte-se comigo
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/vitor-matheus-jeremias-93227b212/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:jeremiasvitorm@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
