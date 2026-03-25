@@ -7,18 +7,28 @@
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ovitormatheus&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovitormatheus&layout=compact&theme=tokyonight"/>
-</div>
+<table align="center">
+<tr>
+<td>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ovitormatheus&show_icons=true&theme=tokyonight"/>
+
+</td>
+
+<td>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovitormatheus&layout=compact&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <table>
 <tr>
 
-
+<td width="50%" align="center">
 
 ### 🤖 Tecnologias
 
