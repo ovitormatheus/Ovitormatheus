@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Vitor Matheus
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (UNIP)
+- 🎓 Técnico em multimídia em desenvolvimento
 - 📍 Campinas - SP
 - 💻 Iniciando na programação
 - 📚 Sempre buscando evolução
@@ -32,13 +32,21 @@
 
 ### 🤖 Tecnologias
 
-<img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img alt="Adobe Illustrator" title="Adobe Illustrator" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+<img alt="Adobe Photoshop" title="Adobe Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<img alt="Figma" title="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 ### 🌐 Conecte-se comigo
+
 <a href="https://www.linkedin.com/in/vitor-matheus-jeremias-93227b212/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:jeremiasvitorm@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -48,14 +56,19 @@
 <a href="https://github.com/Ovitormatheus?tab=repositories&sort=stargazers">
   <img src="https://custom-icon-badges.demolab.com/github/stars/Ovitormatheus?style=for-the-badge&logo=star&color=55960c"/>
 </a>
+
 <a href="https://github.com/Ovitormatheus?tab=followers">
   <img src="https://custom-icon-badges.demolab.com/github/followers/Ovitormatheus?style=for-the-badge&logo=github&color=236ad3"/>
 </a>
+
 </td>
+
 <td width="50%" align="center">
 
 ### 🔥 Sequência de commits
+
 <img src="https://streak-stats.demolab.com/?user=Ovitormatheus&theme=tokyonight"/>
+
 </td>
 </tr>
 </table>
