@@ -7,21 +7,13 @@
 
 ---
 
-<table align="center">
-<tr>
-<td>
+<div align="center">
+  <img height="160em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ovitormatheus&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&count_private=true&include_all_commits=true" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ovitormatheus&show_icons=true&theme=tokyonight"/>
-
-</td>
-
-<td>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ovitormatheus&layout=compact&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+  <img height="160em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ovitormatheus&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&langs_count=8" />
+</div>
 
 ---
 
