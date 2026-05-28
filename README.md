@@ -22,7 +22,7 @@
 
 <td width="50%" align="center">
 
-### 🤖 Tecnologias
+### 🤖 Tecnologias & Design
 
 <img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
