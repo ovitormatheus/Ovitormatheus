@@ -5,10 +5,11 @@
 - 📚 Sempre buscando evolução
 
 ---
-<div> 
+
+<div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ovitormatheus&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ovitormatheus&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ovitormatheus&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </div>
 
 ---
